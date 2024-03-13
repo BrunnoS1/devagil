@@ -10,3 +10,4 @@ def calculadora(num1, num2, operador):
             return num1 / num2
         case _:
             return "Operador inválido"        
+
